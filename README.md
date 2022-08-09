@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saidsahinbas
-- 👀 I’m interested in c# and game development
+- 👀 I’m interested in .Net and Backend technologies
 - 🌱 I’m currently learning unity and xamarin(for school) 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me mail : saidsahinbas@gmail.com  twitter:@saidsahinbas   
